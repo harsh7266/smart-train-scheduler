@@ -1,0 +1,7 @@
+source,target,travel_min
+S1,S2,10
+S2,S3,12
+S3,S4,9
+S1,S3,18
+S2,S4,15
+S1,S4,20

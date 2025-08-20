@@ -1,0 +1,4 @@
+train_id,route,start_time
+T1,"S1,S2,S3,S4",08:00
+T2,"S1,S3,S4",08:05
+T3,"S2,S3",08:02
